@@ -9,7 +9,7 @@ welcome to my github page!!
 - 🌱 I’m currently learning backend technologies 
 🤔 I’m looking for help with Open source Contribution.
 
-Technology/tools:
+## 🛠️ My Skills
 
 HTML 5
 JavaScript
@@ -20,9 +20,10 @@ Node.js
 
 🙋‍♀️ Let's Connect
 
-
-<p align="left"> 
-  &emsp;  ![linkedin_image](images/linkedin.png)
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sangeethajadhav123@gmail.com" target="_blank" src="images/gmail.png"></a>
-<a href="" src="images/linkedin.png" target="_blank"></a>
+ &emsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sangeethajadhav123@gmail.com" target="_blank">
+<img src="images/gmail.png" alt="mail_image"></img></a>
+ &emsp;
+<a href=""  target="_blank">
+<img src="images/linkedin.png" alt="linkedin_image"></img></a>
                                            
