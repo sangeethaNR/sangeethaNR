@@ -11,4 +11,12 @@ welcome to my github page!!
 
 Technology/tools:
 
-![node.js image](images/nodejs-original-wordmarks.svg)
+HTML 5
+JavaScript
+Bootstarp
+Tailwind
+Jquery
+Node.js
+
+🙋‍♀️ Let's Connect
+![gmail_image](image/gmail.png) ![linkedin_image](image/linkedin.png)
