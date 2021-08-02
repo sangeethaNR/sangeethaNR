@@ -21,10 +21,10 @@ Node.js
 ## 🙋‍♀️ Let's Connect
 <p align="center">  
  &emsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sangeethajadhav123@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sangeethajadhav123@gmail.com" >
 <img src="images/gmail.png" alt="mail_image"></img></a>
  &emsp;
-<a href="www.linkedin.com/in/sangeetha-nageshwara-rao-164a0120"  target="_blank">
+<a href="www.linkedin.com/in/sangeetha-nageshwara-rao-164a0120">
 <img src="images/linkedin.png" alt="linkedin_image"></img></a>
 </p>
                                            
