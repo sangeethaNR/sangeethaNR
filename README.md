@@ -11,11 +11,11 @@ welcome to my github page!!
 
 ## 🛠️ My Skills
 
-HTML 5
-JavaScript
-Bootstarp
-Tailwind
-Jquery
+HTML 5 <br>
+JavaScript<br>
+Bootstarp<br>
+Tailwind<br>
+Jquery<br>
 Node.js
 
 ## 🙋‍♀️ Let's Connect
