@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sangeethaNR/sangeethaNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![person using a computer animated image](images/profileReadMe.gif)
 
 Here are some ideas to get you started:
 
