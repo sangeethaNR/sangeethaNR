@@ -21,4 +21,8 @@ Node.js
 🙋‍♀️ Let's Connect
 
 
-![gmail_image](images/gmail.png) ![linkedin_image](images/linkedin.png)
+<p align="left"> 
+  &emsp;  ![linkedin_image](images/linkedin.png)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sangeethajadhav123@gmail.com" target="_blank" src="images/gmail.png"></a>
+<a href="" src="images/linkedin.png" target="_blank"></a>
+                                           
