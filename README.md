@@ -19,4 +19,6 @@ Jquery
 Node.js
 
 🙋‍♀️ Let's Connect
-![gmail_image](image/gmail.png) ![linkedin_image](image/linkedin.png)
+
+
+![gmail_image](images/gmail.png) ![linkedin_image](images/linkedin.png)
