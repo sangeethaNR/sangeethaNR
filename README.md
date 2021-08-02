@@ -18,12 +18,13 @@ Tailwind
 Jquery
 Node.js
 
-🙋‍♀️ Let's Connect
-
+## 🙋‍♀️ Let's Connect
+<p align="center">  
  &emsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sangeethajadhav123@gmail.com" target="_blank">
 <img src="images/gmail.png" alt="mail_image"></img></a>
  &emsp;
 <a href=""  target="_blank">
 <img src="images/linkedin.png" alt="linkedin_image"></img></a>
+</p>
                                            
