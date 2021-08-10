@@ -19,7 +19,7 @@ Jquery<br>
 Node.js
 
 ## Portfolio
-Link to my portfolio. Please click <a href="https://sangeethanr.github.io/My_Portfolio/" target="_blank"> here</a>
+Link to my portfolio. Please click <a href="https://sangeethanr.github.io/my-portfolio/" target="_blank"> here</a>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">  
