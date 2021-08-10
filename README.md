@@ -18,6 +18,9 @@ Tailwind<br>
 Jquery<br>
 Node.js
 
+## My Portfolio
+To view my projects, click on this <a href="https://sangeethanr.github.io/My-Portfolio/" target="_blank" >link </a>
+
 ## 🙋‍♀️ Let's Connect
 <p align="center">  
  &emsp;
