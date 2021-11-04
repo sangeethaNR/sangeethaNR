@@ -6,7 +6,7 @@
 welcome to my github page!!
 
 - 🔭 I have past experience working as a .Net Developer
-- 🌱 I’m currently learning backend technologies 
+- 🌱 I’m currently learning fullstack development in UCSD
 
 
 ## 🛠️ My Skills
@@ -16,7 +16,14 @@ JavaScript<br>
 Bootstarp<br>
 Tailwind<br>
 Jquery<br>
-Node.js
+Node.js<br>
+Express.js<br>
+React.js<br>
+GraphQL<br>
+MongoDB<br>
+MYSQL and NoSQL
+
+
 
 ## My Portfolio
 To view my projects, click on this <a href="https://sangeethanr.github.io/My-Portfolio/" target="_blank" >link </a>
