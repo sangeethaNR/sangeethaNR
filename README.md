@@ -23,12 +23,14 @@ GraphQL<br>
 Cloudinary<br>
 Insomnia, Heroku <br>
 MongoDB and Mongoose ODM<br>
-MYSQL and NoSQL
+MYSQL and NoSQL <br>
+Git
+
 
 
 
 ## My Portfolio
-To view my projects, click on this <a href="https://sangeethanr.github.io/My-Portfolio/" target="_blank" >link </a>
+To view my projects, click on this <a href="https://my-portfolio-react-123.herokuapp.com/" target="_blank" >link </a>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">  
