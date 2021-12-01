@@ -6,7 +6,7 @@
 welcome to my github page!!
 
 - 🔭 I have past experience working as a .Net Developer
-- 🌱 I’m currently learning fullstack development in UCSD
+- 🌱 Recently, earned a certificate in full stack development from the University of California,San Diego(UCSD), with newly developed skills in JavaScript, CSS, React.js,MondoDB,Node.js,Express.js. and responsive web design.
 
 
 ## 🛠️ My Skills
@@ -20,7 +20,9 @@ Node.js<br>
 Express.js<br>
 React.js<br>
 GraphQL<br>
-MongoDB<br>
+Cloudinary<br>
+Insomnia, Heroku <br>
+MongoDB and Mongoose ODM<br>
 MYSQL and NoSQL
 
 
