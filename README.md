@@ -13,8 +13,8 @@ welcome to my github page!!
 
 HTML 5 <br>
 JavaScript<br>
-Bootstarp<br>
-Tailwind<br>
+CSS3 <br>
+Bootstarp,Tailwind,Material UI<br>
 Jquery<br>
 Node.js<br>
 Express.js<br>
@@ -24,7 +24,11 @@ Cloudinary<br>
 Insomnia, Heroku <br>
 MongoDB and Mongoose ODM<br>
 MYSQL and NoSQL <br>
-Git
+GitHub<br/>
+PWA,NPM<br>
+REST API <br/>
+ASP.NET, C#.NET, ADO.NET, Entity Framework 4.0
+
 
 
 
